@@ -13,6 +13,10 @@ def F(x, y):
     
 约束范围是[-100,100]
 
+图像如图所示：
+
+![img](https://github.com/SivenLSP/None/blob/master/%E5%87%BD%E6%95%B0%E5%9B%BE%E5%83%8F.png)
+
 参数设置：
 
   DNA_SIZE = 24
