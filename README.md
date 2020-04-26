@@ -27,3 +27,4 @@ def F(x, y):
   
 最后选取每代函数值均值作为纵轴绘制优化曲线：
 
+![img](https://github.com/SivenLSP/None/blob/master/%E4%BC%98%E5%8C%96%E6%9B%B2%E7%BA%BF.png)
